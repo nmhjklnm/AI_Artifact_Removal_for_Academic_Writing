@@ -1,7 +1,7 @@
 # AI Artifact Removal for Academic Writing / 学术文本 AI 感消除
 
 > 用于消除学术文本 AI 风格痕迹并校正学术文体的 Prompt，采用两阶段润色策略
-<img width="2400" height="1792" alt="预览 2025-12-01 14 24 07" src="https://github.com/user-attachments/assets/55397ec8-60e7-4164-b45c-2410dd583da4" />
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/5d9ee8ad-420f-4796-9cd9-8fb241face4a" />
 
 
 使用建议：

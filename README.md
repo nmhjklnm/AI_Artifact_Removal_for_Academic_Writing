@@ -1,4 +1,4 @@
-# Academic AI Style Refiner / 学术 AI 感消除器
+# Academic AI Style Refiner / 学术文本 AI 感消除器
 
 > 面向论文写作中删除学术文本中的 AI 风格与学术文体校正的Prompt
 使用建议：

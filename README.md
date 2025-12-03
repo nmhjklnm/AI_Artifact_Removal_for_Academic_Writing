@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://ai-refine-app-643d.vercel.app/">
+  <a href="https://airefine.nextmind.space/">
     <img src="https://img.shields.io/badge/在线体验-点击进入-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="在线体验链接" />
   </a>
 </p>
